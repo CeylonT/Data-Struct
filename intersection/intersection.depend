@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537374796 source:c:\users\niti\desktop\c++\intersection\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

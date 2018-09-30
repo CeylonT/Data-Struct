@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537173559 source:c:\users\niti\desktop\c++\restaurant\main.cpp
+	<iostream>
+	<vector>
+

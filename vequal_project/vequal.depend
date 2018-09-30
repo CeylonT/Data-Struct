@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1424527994 source:c:\users\niti\desktop\c++\vequal_project\main.cpp
+	<stdexcept>
+	<iostream>
+	"vector.h"
+	"student.h"
+
+1425051986 c:\users\niti\desktop\c++\vequal_project\vector.h
+	<stdexcept>
+	<iostream>
+
+1537368704 c:\users\niti\desktop\c++\vequal_project\student.h
+

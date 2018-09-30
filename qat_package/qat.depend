@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1507945463 source:c:\users\niti\desktop\c++\qat_package\main.cpp
+	<stdexcept>
+	<iostream>
+	"queue.h"
+	"student.h"
+	<vector>
+
+1507945466 c:\users\niti\desktop\c++\qat_package\queue.h
+	<stdexcept>
+	<iostream>
+
+1538207209 c:\users\niti\desktop\c++\qat_package\student.h
+

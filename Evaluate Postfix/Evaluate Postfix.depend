@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537180143 source:c:\users\niti\desktop\c++\evaluate postfix\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

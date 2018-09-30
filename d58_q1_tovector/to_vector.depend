@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1456244791 source:c:\users\niti\desktop\c++\d58_q1_tovector\main.cpp
+	<iostream>
+	<stack>
+	<assert.h>
+	"queue.h"
+	"student.h"
+
+1456244793 c:\users\niti\desktop\c++\d58_q1_tovector\queue.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1538230708 c:\users\niti\desktop\c++\d58_q1_tovector\student.h
+

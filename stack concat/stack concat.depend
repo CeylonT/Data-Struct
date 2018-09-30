@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1537380904 source:c:\users\niti\desktop\c++\stack concat\main.cpp
+	<iostream>
+	<vector>
+	<stack>
+

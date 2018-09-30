@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534740505 source:c:\users\niti\desktop\c++\test\main.cpp
+	<vector>
+	<iostream>
+

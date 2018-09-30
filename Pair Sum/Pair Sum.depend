@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1536914698 source:c:\users\niti\desktop\c++\pair sum\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+

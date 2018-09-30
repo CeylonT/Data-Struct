@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1488942532 source:c:\users\niti\desktop\c++\range_insert_package\main.cpp
+	<stdio.h>
+	<iostream>
+	<vector>
+	"vector.h"
+	"student.h"
+
+1488856348 c:\users\niti\desktop\c++\range_insert_package\vector.h
+	<stdexcept>
+	<iostream>
+	<vector>
+
+1537726303 c:\users\niti\desktop\c++\range_insert_package\student.h
+
